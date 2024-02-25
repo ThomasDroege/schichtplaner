@@ -1,1 +1,3 @@
 ## Schichtplaner
+
+Schichtplaner App
